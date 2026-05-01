@@ -129,7 +129,7 @@ No meaningful correlation found. Temperature difference between healthy and unhe
 - Built Pivot Chart — visual comparison of equality scores across all job roles
 - Converted data range to Excel Table for structured formula references
 
-📊 [Enhanced Equality Table](excel/Daikibo_Equality_Analysis.xlsx) | 📄 [Excel Analysis Report](excel/Daikibo_Equality_Analysis_Report.pdf)
+ 📄 [Excel Analysis Report](https://github.com/BrindaJat/daikibo-deloitte-analytics/blob/main/excel/Daikibo_Equality_Analysis_Report.pdf)
 
 ### Findings
 
