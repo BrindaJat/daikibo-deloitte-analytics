@@ -44,25 +44,45 @@ The simulation was originally designed for Tableau but this project was complete
 ## Repository Structure
 
 daikibo-deloitte-analytics/
+
 │
+
 ├── README.md
+
 │
+
 ├── sql/
+
 │   ├── daikibo_analysis.sql
+
 │   └── Daikibo_SQL_Analysis_Report.pdf
+
 │
+
 ├── excel/
+
 │   ├── Daikibo_Equality_Analysis.xlsx
+
 │   └── Daikibo_Equality_Analysis_Report.pdf
+
 │
+
 ├── powerbi/
+
 │   ├── Daikibo_Dashboard.pbix
+
 │   ├── 1_Factory_Analysis.png
+
 │   ├── 2_Operational_Deep_Dive.png
+
 │   ├── 3_People_Risk.png
+
 │   └── 4_Executive_Summary.png
+
 │
+
 └── executive_summary/
+
 └── Daikibo_Executive_Summary.pdf
 
 ---
@@ -78,8 +98,8 @@ daikibo-deloitte-analytics/
 - Calculated breakdown rate percentage per factory using decimal division
 - Identified hourly and daily breakdown patterns
 - Cross analysed factory and machine type combinations to find localised failure patterns
-
-📄 [SQL Queries](sql/daikibo_analysis.sql) | 📊 [Full SQL Report with Outputs](sql/Daikibo_SQL_Analysis_Report.pdf)
+  
+ 📊 [Full SQL Report with Outputs](https://github.com/BrindaJat/daikibo-deloitte-analytics/blob/main/SQL/Daikibo_SQL_Analysis_Report.pdf)
 
 ### Query Summary & Findings
 
