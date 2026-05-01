@@ -175,8 +175,8 @@ No meaningful correlation found. Temperature difference between healthy and unhe
 
 ![Page 1 - Factory Analysis](https://github.com/BrindaJat/daikibo-deloitte-analytics/blob/main/powerbi/1.Factory%20Analysis.png)
 ![Page 2 - Operational Deep Dive](https://github.com/BrindaJat/daikibo-deloitte-analytics/blob/main/powerbi/2.Operational%20Deep%20Dive.png)
-![Page 3 - People Risk]()
-![Page 4 - Executive Summary]()
+![Page 3 - People Risk](https://github.com/BrindaJat/daikibo-deloitte-analytics/blob/main/powerbi/3.People%20Risk.png)
+![Page 4 - Executive Summary](https://github.com/BrindaJat/daikibo-deloitte-analytics/blob/main/powerbi/4.Executive%20Summary.png)
 
 ---
 
