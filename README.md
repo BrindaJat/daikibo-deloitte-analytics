@@ -42,6 +42,7 @@ The simulation was originally designed for Tableau but this project was complete
 ---
 
 ## Repository Structure
+
 daikibo-deloitte-analytics/
 │
 ├── README.md
@@ -172,10 +173,10 @@ No meaningful correlation found. Temperature difference between healthy and unhe
 
 ### Dashboard Screenshots
 
-![Page 1 - Factory Analysis](powerbi/1_Factory_Analysis.png)
-![Page 2 - Operational Deep Dive](powerbi/2_Operational_Deep_Dive.png)
-![Page 3 - People Risk](powerbi/3_People_Risk.png)
-![Page 4 - Executive Summary](powerbi/4_Executive_Summary.png)
+![Page 1 - Factory Analysis](https://github.com/BrindaJat/daikibo-deloitte-analytics/blob/main/powerbi/1.Factory%20Analysis.png)
+![Page 2 - Operational Deep Dive]()
+![Page 3 - People Risk]()
+![Page 4 - Executive Summary]()
 
 ---
 
